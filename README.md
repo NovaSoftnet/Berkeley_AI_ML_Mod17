@@ -13,7 +13,7 @@ A dataset from [UCI Irvine Machine Learning repository](https://archive.ics.uci.
 
 **Apply the CRISP-DM methodology to compare the performance of several classifiers (k-nearest neighbors, logistic regression, decision trees, and support vector machines) in order to identify the best Machine Learning Classification model that can be used to determine the factors that drive the success of tele-marketing campaigns for a Banking Institution**
 
-The evaluation of the best model will be based on the data available from the Bank's previous marketing campaigns, which include personal customer data and some parameters about the product offered to that customer being the target variable the acceptance or rejection of the product offered.
+The evaluation of the best model will be based on the data available from the Bank's previous marketing campaigns, which include personal customer data and some parameters about the product offered to that customer, being the target variable the acceptance or rejection of the product offered.
 
 ----
 
